@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul ek</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **machine learning with pycaret and model context protocol (mcp)**
+- 🔭 I’m currently working on **Automation with model context protocol (mcp)**
 
 - 🌱 I’m currently learning **ML,DL and model context protocol (mcp)**
 
