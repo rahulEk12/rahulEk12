@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **machine learning with pycaret**
 
-- 🌱 I’m currently learning **ML,DL**
+- 🌱 I’m currently learning **ML,DL and model context protocol (mcp)**
 
-- 👯 I’m looking to collaborate on **machine learning**
+- 👯 I’m looking to collaborate on **machine learning and model context protocol (mcp)**
 
-- 💬 Ask me about **python ML AND DL**
+- 💬 Ask me about **python, ML, DL and model context protocol (mcp)**
 
 - 📫 How to reach me **rek696723@gmail.com**
 
