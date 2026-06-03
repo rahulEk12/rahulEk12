@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rahul ek</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h2 align="center">AI Developer </h2>
+<h3 align="center">Designing the Future of
+AI agent automation</h3>
+- 🔭 Bridging intelligence and workflows by engineering custom MCP servers, AI agent pipelines, and high-performance digital automation ecosystems.
 
-- 🔭 I’m currently working on **Automation with model context protocol (mcp)**
+- 🌱 Designed and integrated custom AI-assisted workflow systems for research, professional formatting, and task automation. And Built beautiful, state-of-the-art UI/UX layouts utilizing Figma and Canva, ensuring rich visual contrast and pixel-perfect aesthetics.
 
-- 🌱 I’m currently learning **ML,DL and model context protocol (mcp)**
+- 👯 I’m looking to collaborate on Hands-on specialist in connecting Model Context Protocol (MCP) servers across Claude, ChatGPT, Cursor, Windsurf, and VS Code ecosystems.
 
-- 👯 I’m looking to collaborate on **machine learning and model context protocol (mcp)**
-
-- 💬 Ask me about **python, ML, DL and model context protocol (mcp)**
+- 💬 Ask me about **Artificial Intelligent**
 
 - 📫 How to reach me **rek696723@gmail.com**
 
