@@ -2,7 +2,11 @@
 <h2 align="center">AI Developer </h2>
 <h3 align="center">Designing the Future of
 AI agent automation</h3>
-- 🔭 Bridging intelligence and workflows by engineering custom MCP servers, AI agent pipelines, and high-performance digital automation ecosystems.
+- 🔭 Adding AI into everyday work by building custom AI servers, connecting AI agents that work together, and creating fast, fully automated digital systems.
+1.AI into workflows := Use AI to do daily work automatically
+2.Custom MCP servers := Special servers made to connect AI with your company’s data and tools 
+3. AI agent pipelines := A chain of AI helpers where one AI does a task and passes it to the next AI
+4.High-performance digital automation ecosystems := A full system of tools that runs fast and handles work without much manual effort 
 
 - 🌱 Designed and integrated custom AI-assisted workflow systems for research, professional formatting, and task automation. And Built beautiful, state-of-the-art UI/UX layouts utilizing Figma and Canva, ensuring rich visual contrast and pixel-perfect aesthetics.
 
