@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul ek</h1>
+<h1 align="center">Hi 👋, I'm Rahul Ek</h1>
 <h2 align="center">AI Developer </h2>
 <h3 align="center">Designing the Future of
 AI agent automation</h3>
